@@ -1,0 +1,20 @@
+Question,Answer
+What is the Peltarion Platform anyway?,"In short, the Peltarion Platform is a cloud-based operational AI platform that allows you to build and deploy your own deep learning models, even if you’re not an AI superstar."
+What do I need to use the Peltarion Platform?,"To use Peltarion Platform you basically need Google Chrome installed on your computer. Then you’re good to go! For more detailed requirements, check our details in the Technical requirements article."
+Where do I ask for help?,"If you have any questions about the Peltarion platform functionality, please contact support@peltarion.com."
+How do I report a bug?,"If you find a bug, please submit a bug report through Platform issue report or send us an email to support@peltarion.com."
+What was Synapse?,"Synapse was Peltarion’s first product. It was the most advanced adaptive- and neural systems development environment on the market at the time. Synapse allowed the user to design, train, analyze, and deploy adaptive systems, such as artificial neural networks.
+If you want to know more, you should use Wayback Machine to peek into the past. This link will take you back to Peltarion’s documentation November 13th, 2013."
+How do I navigate to the Datasets view?,"First, click + New project in the left panel to create a project. Then click on Open. This will take you to the Datasets view."
+I use the downloaded .h5 when I test. Do I have to standardize the test dataset in the same way as the training dataset?,"Yes, you have to be consistent and perform the same preprocessing for your train and test dataset."
+How can I view my results for the test dataset?,You can’t use a test dataset on the Peltarion Platform right now. But you can use our tool Sidekick.
+How do I prepare my data to fit the Platform?,"Use Sidekick! The code in Peltarion’s public GitHub repo Sidekick handles the mundane tasks like bundling up data into the Platform’s preferred format.
+Link: https://github.com/Peltarion/sidekick"
+I got an error message in the Modeling view. What does it mean?,"There are several error messages on the Platform. We try to make them as short and full of information as possible. But if you want further guidance, check out cause and remedy for each error message in Error messages."
+Can I have  multiple input blocks?,"Yes, you can have multiple inputs, e.g., in our Tutorial - Predict California house prices, we use both images and tabular data as input."
+Which block should use when I’m designing my model?,It depends on your data and on your task. Check out our cheat sheets for tips and tricks on how to solve your problem.
+How many nodes should I have in the last dense block?,"As many as the shape of your target, so it depends on your task."
+How do I work with multiple experiments?,Easy experimenting is a key feature of the Peltarion Platform.
+How do I use a deployed model?,"First, follow the instructions in the Deployment view part of the Knowledge center."
+How do I reset my password?,"To reset your password, go to this link: Reset password."
+How do I upgrade my usage plan?,"To upgrade your usage plan, please contact sales@peltarion.com."
