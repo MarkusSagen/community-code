@@ -1,0 +1,3 @@
+# Creating a Customer Support Chatbot with Power Virtual Agents & Peltarion
+
+This repository contains the scripts and datasets that accompany the Customer Support Chatbot blog posts (links coming as soon as they are published). These blog posts contain a detailed walkthrough of the process for creating an automated chatbot in Power Virtual Agents that is powered by a Peltarion text similarity model. 
