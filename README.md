@@ -13,7 +13,7 @@ The Community-code repo includes different kinds of code that helps you integrat
 
 For more information about the tutorials, see the [Knowledge Center tutorials](https://peltarion.com/knowledge-center/tutorials).
 
-## Deplyment API examples
+## Deployment API examples
 * [Peltarion_deployment_curl_examples.ipynb](./Peltarion_deployment_curl_examples.ipynb) - Jupyter Notebook demonstrating use of the deployment API via Curl.
 * [Peltarion_deployment_JSON_examples.ipynb](./Peltarion_deployment_JSON_examples.ipynb) - Jupyter Notebook demonstrating use of the deployment API with HTTP requests and JSON body content.
 * [predict_california_house_prices](./predict_california_house_prices) - Model API interface for the tutorial "Predict California house prices".
