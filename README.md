@@ -28,5 +28,11 @@ Other resources
 ## Licenses datasets
 Datasets provided by Peltarion may be subject to separate third party terms of use or our own license terms. Applicable licenses are listed here: https://peltarion.com/knowledge-center/documentation/terms/dataset-licenses.
 
+## Data Collection Tools
+ImageScraper built for educational demos, press button that says "Open in Colab" to start. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Peltarion/community-code/blob/master/data_collection_tools/ImageScraper.ipynb)
+
+
 ## Disclaimer
 Please note that datasets, machine-learning models, weights, topologies, research papers and other content, including open source software, (collectively referred to as “Content”) provided and/or suggested by Peltarion for use in the Platform and otherwise, may be subject to separate third party terms of use or license terms. You are solely responsible for complying with the applicable terms. Peltarion makes no representations or warranties about Content. You expressly relieve us from any and all liability, loss or risk arising (directly or indirectly) from Your use of any third party content.
+
